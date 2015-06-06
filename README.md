@@ -1,3 +1,3 @@
 # Free Energy
-An application to a device to create energy from nothing.
+An application to model a device to create energy from nothing.
 ----------
